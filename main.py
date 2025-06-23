@@ -1,2 +1,2 @@
 print("Another repo..")
-print("SJHSuS repo.....")
+print("sHASHI repe.....")
